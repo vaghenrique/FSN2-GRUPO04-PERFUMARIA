@@ -6,6 +6,7 @@ import ProductDetails from './components/ProductDetails';
 import Cart from './components/Cart';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import Sobre from './components/Sobre';
 import 'font-awesome/css/font-awesome.min.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/product/:id" element={<ProductDetails />} />
           <Route path="/cart" element={<Cart />} />
+          <Route path="/sobre" element={<Sobre/>} />
         </Routes>
       </main>
       <Footer />
