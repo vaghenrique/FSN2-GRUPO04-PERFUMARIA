@@ -6,6 +6,7 @@ import ProductDetails from './components/ProductDetails';
 import Cart from './components/Cart';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import 'font-awesome/css/font-awesome.min.css';
 
 function App() {
   return (
