@@ -1,4 +1,4 @@
-Café do Amanhã
+Perfumaria
 
 Descrição
 O site foi criado para um e-commerce de uma perfumaria, com os produtos á disposição para serem adicionados no carrinho.
